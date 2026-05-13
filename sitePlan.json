@@ -1,0 +1,42 @@
+{
+  "businessName": "Trading and Poultry Farming",
+  "industry": "Manufacturing & Agriculture",
+  "tone": "professional and trustworthy",
+  "tagline": "Quality Poultry Products from Farm to Table",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Trading and Poultry Farming - Your trusted source for premium poultry products in Owerri. We combine traditional farming expertise with modern standards to deliver fresh, healthy, and affordable poultry to homes and businesses across Imo State.",
+      "imagePrompt": "Wide angle photorealistic image of a modern Nigerian poultry farm with rows of clean white chicken coops, healthy chickens in spacious pens, green grass surroundings, bright Nigerian sunshine, professional farming equipment visible, clean organized environment showing quality and care in Owerri",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Trading and Poultry Farming is a leading poultry manufacturing business located in the heart of Owerri Municipal. We specialize in breeding, raising, and supplying high-quality chickens, eggs, and poultry products to retailers, restaurants, and households. Our commitment to hygiene, animal welfare, and customer satisfaction has made us a preferred choice for poultry needs in Imo State. With years of experience in the industry, we maintain strict quality control measures to ensure every product that leaves our farm meets the highest standards of freshness and safety.",
+      "imagePrompt": "Photorealistic image of Nigerian poultry farmers in clean uniforms carefully tending to chickens, modern feeding systems, veterinary care being administered, professional farm management, warm African sunlight filtering through clean poultry houses, showing dedication and expertise",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "**Live Chickens**: Healthy broilers and layers available for immediate purchase, raised with quality feed and proper veterinary care.\n\n**Fresh Eggs**: Farm-fresh eggs delivered daily, perfect for households, bakeries, and food businesses.\n\n**Dressed Chickens**: Professionally processed and dressed chickens, hygienically prepared to your specifications.\n\n**Poultry Consultation**: Expert advice on starting and managing your own poultry farm, including feed formulation and disease management.\n\n**Bulk Supply**: Reliable bulk supply contracts for hotels, restaurants, supermarkets, and institutional buyers across Owerri and beyond.",
+      "imagePrompt": "High quality product photography showing fresh brown eggs in woven Nigerian baskets, live healthy chickens in clean farm setting, neatly dressed chickens on clean surfaces, all arranged attractively with green leafy vegetables as garnish, professional commercial food photography style with Nigerian context",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to place an order or learn more about our poultry products? We're here to serve you with quality and reliability.\n\n**Location**: No 2 School Road by Okorie Street, Owerri, Owerri Municipal, Imo State, Nigeria\n\n**Phone**: 0806 258 1967\n\n**Business Hours**: Monday - Saturday: 7:00 AM - 6:00 PM, Sunday: 8:00 AM - 2:00 PM\n\nVisit our farm today or contact us for home and business deliveries within Owerri Municipal and surrounding areas. We offer competitive prices and maintain the highest standards of quality for all our poultry products.",
+      "imagePrompt": "Welcoming entrance to a professional Nigerian poultry farm, clear signage with business name, clean paved driveway, green landscaping, farm buildings visible in background, customers and staff interacting warmly, typical Owerri neighborhood setting with trees and well-maintained property",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0806 258 1967",
+    "email": "",
+    "address": "No 2 School Road by Okorie Street, Owerri, Owerri Municipal, Imo State, Nigeria",
+    "whatsapp": "https://wa.me/2348062581967"
+  }
+}
